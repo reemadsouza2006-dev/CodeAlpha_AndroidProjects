@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Random Quote Generator</string>
+    <string name="quote_format">"%1$s"</string>
+    <string name="author_format">- %1$s</string>
+</resources>
