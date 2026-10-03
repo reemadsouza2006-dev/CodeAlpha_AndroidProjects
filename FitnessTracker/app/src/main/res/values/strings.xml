@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fitness Tracker</string>
+
+    <string name="fitness_tracker_title">Fitness Tracker</string>
+    <string name="fitness_tracker_subtitle">Track your daily fitness progress</string>
+    <string name="todays_summary">Today\'s Summary</string>
+
+    <string name="steps_default">Steps: 0</string>
+    <string name="workout_default">Workout: 0 minutes</string>
+    <string name="calories_default">Calories: 0 kcal</string>
+
+    <string name="steps_format">Steps: %1$d</string>
+    <string name="workout_format">Workout: %1$d minutes</string>
+    <string name="calories_format">Calories: %1$d kcal</string>
+
+    <string name="log_activity">Log Activity</string>
+
+    <string name="exercise_hint">Exercise type</string>
+    <string name="minutes_hint">Workout minutes</string>
+    <string name="calories_hint">Calories burned</string>
+
+    <string name="enter_exercise">Enter exercise type</string>
+    <string name="enter_minutes">Enter workout minutes</string>
+    <string name="enter_calories">Enter calories</string>
+
+    <string name="add_activity">Add Activity</string>
+    <string name="activity_added">%1$s added successfully!</string>
+
+</resources>
